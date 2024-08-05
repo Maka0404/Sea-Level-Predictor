@@ -1,2 +1,3 @@
-# Sea-Level-Predictor
-Analizarás un conjunto de datos del cambio promedio global del nivel del mar desde 1880. Utilizarás los datos para predecir el cambio del nivel del mar hasta el año 2050.
+# Sea Level Predictor
+
+This is the boilerplate for the Sea Level Predictor project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor
